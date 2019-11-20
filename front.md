@@ -2,7 +2,7 @@
 `npm  install` 
    
 ## 2、配置后端服务器
-文件位于frontend目录下，.env.development保存开发时的环境，.env.development保存发布后的环境
+文件位于frontend目录下，.env.development保存开发时的环境，.env.production保存发布后的环境
 
 配置其中的VUE_APP_BASE_API地址，分别指向开发时的本地后端服务器和发布后线上后端服务器。
 
